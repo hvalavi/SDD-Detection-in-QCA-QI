@@ -18,7 +18,9 @@ Applicaion was developed under .Net Framework +4.0 for MS Windows Platform
 		note5: Simulation results was stored in "Results" directory.
 	6. After Simulation, you can analyze the results using "A" command.
 		note: "Analyze.txt" file structure is like below:
-			Rotation_degree$point_of_transition$Cell number
+			X$Y$point_of_transition
+		note:
+			X and Y starts from central cell, 11.25nm Left and 4.5nm Top and continues to 11.25nm Right and 4.5nm Buttom.
 note: The Other options/commands have specific objectives:
 	Split : Split Simulation files to some partions to run on different machines.
 	Clean Inputs : Delete all circuits in "Results" directory that have been failed to simulate.
