@@ -23,7 +23,7 @@ note: The Other options/commands have specific objectives:
 	Split : Split Simulation files to some partions to run on different machines.
 	Clean Inputs : Delete all circuits in "Results" directory that have been failed to simulate.
 # Results
-	The full simulation results are available in "final.zip" file.
+	The full simulation results are available in "QI_Rotate.zip" file.
 
 
 
