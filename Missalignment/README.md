@@ -26,6 +26,7 @@ note: The Other options/commands have specific objectives:
 	Clean Inputs : Delete all circuits in "Results" directory that have been failed to simulate.
 # Results
 	Full analyzed results are available in "Analysis.txt".
+	Simulation results are also available in the "final.rar" file.
 
 
 
